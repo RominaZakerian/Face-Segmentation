@@ -91,6 +91,10 @@ Main training configuration from the notebook:
 - LR scheduler: `ReduceLROnPlateau`
 - Model selection metric: validation mean IoU over face classes `1..5`
 
+## Best Checkpoint
+
+The best trained checkpoint can be downloaded from [Google Drive](https://drive.google.com/file/d/1nKL4BsMTXplF0kJfZts0XvTlrM6MdCv8/view?usp=drive_link).
+
 ## Results
 
 Best validation metrics reported in the notebook:
