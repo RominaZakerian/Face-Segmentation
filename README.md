@@ -103,6 +103,8 @@ These results indicate strong segmentation quality across the selected face-part
 ## Visual Results
 
 ### Sample training data
+This is one example of the training dataset with its annotation: 
+![Sample training visualization](original_image and mask.png)
 
 This example shows an augmented training image and its corresponding remapped segmentation mask.
 
