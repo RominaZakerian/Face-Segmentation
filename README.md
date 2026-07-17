@@ -109,14 +109,15 @@ This is one example of the training dataset with its annotation:
   <img src="original_image and mask.png" alt="Sample training visualization" width="700">
 </p>
 
-This example shows an augmented training image and its corresponding remapped segmentation mask.
-
-
 
 ### Prediction examples
 
-The notebook also includes qualitative prediction visualizations for segmentation outputs and overlays.
+The notebook also includes qualitative prediction visualizations for segmentation outputs and overlays:
 
+
+<p align="center">
+  <img src="face_segmentation_results.jpg" alt="Prediction results" width="700">
+</p>
 
 
 
