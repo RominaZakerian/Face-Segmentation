@@ -179,7 +179,7 @@ pip install scikit-learn numpy pandas tqdm
 
 ## Acknowledgments
 
--Computer Vision
+- Computer Vision
 - CelebAMask-HQ dataset
 - PyTorch
 - segmentation-models-pytorch
