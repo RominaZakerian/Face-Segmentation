@@ -32,6 +32,34 @@ The notebook also creates a smaller **12,000-image subset** for faster experimen
 
 ## Classes
 
+## CelebAMask-HQ Original Classes
+
+The CelebAMask-HQ dataset originally contains 19 semantic classes, including facial parts and accessories. In this project, we only use the **face-related classes** and exclude accessory classes such as hair, hat, neck, and cloth.
+
+| ID | Original CelebAMask-HQ Class |
+|---|---|
+| 0 | background |
+| 1 | skin |
+| 2 | nose |
+| 3 | eye_g |
+| 4 | l_eye |
+| 5 | r_eye |
+| 6 | l_brow |
+| 7 | r_brow |
+| 8 | l_ear |
+| 9 | r_ear |
+| 10 | mouth |
+| 11 | u_lip |
+| 12 | l_lip |
+| 13 | hair |
+| 14 | hat |
+| 15 | ear_r |
+| 16 | neck_l |
+| 17 | neck |
+| 18 | cloth |
+
+nad our custom classes:
+
 | ID | Class |
 |---|---|
 | 0 | Background |
