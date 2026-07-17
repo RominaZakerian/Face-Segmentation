@@ -58,7 +58,7 @@ The CelebAMask-HQ dataset originally contains 19 semantic classes, including fac
 | 17 | neck |
 | 18 | cloth |
 
-nad our custom classes:
+and our custom classes:
 
 | ID | Class |
 |---|---|
