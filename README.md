@@ -184,9 +184,12 @@ pip install scikit-learn numpy pandas tqdm
 - PyTorch
 - segmentation-models-pytorch
 - Albumentations
-```
 
 ## Any Question
 
 If you have any question, please don't hesitate to ask me.
 heliazakeriyan@gmail.com
+
+
+```
+
