@@ -101,20 +101,20 @@ Best metrics reported in the notebook:
 
 ## Evaluation Results
 
-| Split | Images | Pixel Accuracy | Mean IoU (Face Classes) | Mean Dice (Face Classes) | Background | Skin | Eyebrow | Eye | Nose | Mouth / Lips |
+| Split | Images | Pixel Accuracy | Mean IoU (Face Classes) | Mean Dice (Face Classes) | Background IoU / Dice | Skin IoU / Dice | Eyebrow IoU / Dice | Eye IoU / Dice | Nose IoU / Dice | Mouth / Lips IoU / Dice |
 |---|---:|---:|---:|---:|---|---|---|---|---|---|
 | Validation | 1200 | 0.9763 | 0.8606 | 0.9239 | 0.9753 / 0.9875 | 0.9165 / 0.9564 | 0.7582 / 0.8625 | 0.8268 / 0.9052 | 0.8879 / 0.9406 | 0.9135 / 0.9548 |
 | Test | 1200 | 0.9769 | 0.8629 | 0.9254 | 0.9762 / 0.9880 | 0.9188 / 0.9577 | 0.7648 / 0.8667 | 0.8322 / 0.9084 | 0.8897 / 0.9417 | 0.9090 / 0.9523 |
-These results indicate strong segmentation quality across the selected face-part classes.
 
 ## Final Report
 
-| Metric | Value |
-|---|---:|
-| Validation Mean IoU | 0.8606 |
-| Validation Mean Dice | 0.9239 |
-| Test Mean IoU | 0.8629 |
-| Test Mean Dice | 0.9254 |
+| Metric | Validation | Test |
+|---|---:|---:|
+| Mean IoU (Face Classes) | 0.8606 | 0.8629 |
+| Mean Dice (Face Classes) | 0.9239 | 0.9254 |
+| Pixel Accuracy | 0.9763 | 0.9769 |
+
+These results indicate strong segmentation quality across the selected face-part classes.
 
 ## Visual Results
 
