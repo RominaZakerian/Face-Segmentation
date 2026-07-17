@@ -177,12 +177,9 @@ pip install scikit-learn numpy pandas tqdm
 - Best and last checkpoints are saved automatically during training.
 - The code supports both full-data and reduced-data experiments.
 
-## License
-
-Add your preferred license here, for example `MIT`.
-
 ## Acknowledgments
 
+-Computer Vision
 - CelebAMask-HQ dataset
 - PyTorch
 - segmentation-models-pytorch
